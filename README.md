@@ -10,4 +10,4 @@ Task 2: Clean your data.
 Task 3: Develop machine learning model - logistic regression. 
 Task 4: Evaluate performance of the logistic regression model
 
-All that is required to run the project is to run each individual cell
+The bank data csv file is required to properly run the cells in this notebook
